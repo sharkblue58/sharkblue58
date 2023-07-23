@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate Laravel back-end developer from Egypt</p>
+<p align="left">A passionate fullstack developer from Egypt</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I graduated from kafrelsheikh university ,faculty of computer & information , Computer Sceince Department  I was one of the top scorers of my batch and was awarded a Very Good degree.<br><br>👀 skills such as Critical Thinking ,Problem Solver,Self Learning and Team working<br>🌱 I’m currently learning to be backend developer using "Laravel" framework<br>💞️ I’m looking to collaborate on a large scale project <br>🎯 I am also a competitive programmer who participated in KafrelsheikhCPC 2020,2021,2022 and I am still trying to improve my skills in problem-solving, algorithm, and datastructure.<br>📫 How to reach me through : zoroloffy95@gmail.com or my phone numbers "+2001289154201" ," +2001149592267 "</p>
+<p align="left">✨ I graduated from kafrelsheikh university ,faculty of computer & information , Computer Sceince Department  I was one of the top scorers of my batch and was awarded a Very Good degree.<br><br>👀 skills such as Critical Thinking ,Problem Solver,Self Learning and Team working<br>🌱 I’m currently learning to be fullstack developer using "Laravel" and "vue.js" frameworks<br>💞️ I’m looking to collaborate on a large scale project <br>🎯 I am also a competitive programmer who participated in KafrelsheikhCPC 2020,2021,2022 and I am still trying to improve my skills in problem-solving, algorithm, and datastructure.<br>📫 How to reach me through : zoroloffy95@gmail.com or my phone numbers "+2001289154201" ," +2001149592267 "</p>
 
 ###
 
