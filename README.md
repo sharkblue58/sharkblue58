@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate fullstack developer from Egypt</p>
+<p align="left">A passionate Fullstack Web Developer from Egypt</p>
 
 ###
 
